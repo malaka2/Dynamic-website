@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Source+Sans+3&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap');
+.page{background: #FAF9F6;}
+.body{margin: 0;}
+ .main h1{text-align: center;}
+ .navbar ul{
+  list-style-type: none;
+  background-color: rgb(96, 89, 89);
+  padding: 0px;
+  margin:0;
+  overflow: hidden;
+
+
+ }
+ .navbar a{
+  color: #FAF9F6;
+  text-decoration: none;
+  padding: 15px;
+  display:block;
+  text-align: center;
+ }
+ .navbar a:hover{
+  background-color: aquamarine;
+ }
+ .navbar li{
+  float: left;
+ }
